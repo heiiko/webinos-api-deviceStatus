@@ -9,7 +9,7 @@
 , "author": "Salvatore Monteleone <salvatore.monteleone@dieei.unict.it>, Krishna Bangalore <krishna.bangalore@in.tum.de>"
 , "repository":
   { "type": "git"
-  , "url": "http://github.com/webinos/webinos-api-deviceStatus.git"
+  , "url": "http://github.com/heiiko/webinos-api-deviceStatus.git"
   }
 , "bugs":
   { "email": "webinos-wp4-ml@fokus.fraunhofer.de"
